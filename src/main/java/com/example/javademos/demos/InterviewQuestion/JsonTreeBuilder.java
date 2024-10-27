@@ -7,6 +7,9 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+/**
+ * 将扁平的节点列表构建为树形结构
+ */
 public class JsonTreeBuilder {
 
     public static void main(String[] args) throws Exception {
